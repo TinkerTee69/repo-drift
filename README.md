@@ -1,6 +1,6 @@
 # payment-service-demo
 
-Payment processing service for the shop platform.
+Payment processing service for the shop platform
 
 ## Supported payment methods
 
